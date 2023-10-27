@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">SubIntermidate</string>
+
+
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+
+    <string name="title_menu_1">Global Standard Industry Curriculum</string>
+    <string name="title_menu_2">Learn Flexibly on Your Schedule</string>
+    <string name="title_menu_3">Code Review from Developer Experts</string>
+    <string name="title_menu_4">Trusted Alumni in Various Companies</string>
+    <string name="desc_menu_1">Curriculum developed in collaboration with global industry leaders and technology owners to meet the latest industry needs.</string>
+    <string name="desc_menu_2">Learn anytime, anywhere, at your own pace. Choose classes based on your interests. Access to classes and discussion forums for a lifetime after graduation.</string>
+    <string name="desc_menu_3">Validate your skills through 1-on-1 Professional Code Review provided directly by Developer Experts.</string>
+    <string name="desc_menu_4">Certificates that prove fundamental knowledge and real skills desired by global companies.</string>
+    <string name="learn_now">Start Learning</string>
+
+    <string name="signup">Sign Up</string>
+    <string name="login">Log In</string>
+    <string name="message_welcome_page">Want to learn Android, iOS, Machine Learning, Cloud, Front-End, Back-End, and other IT fields? Just go to Dicoding!</string>
+    <string name="title_welcome_page">Welcome to Dicoding!</string>
+    <string name="title_signup_page">Please complete your information below</string>
+    <string name="message_login_page">Please enter your data</string>
+    <string name="title_login_page">Ready to upgrade your skills?</string>
+    <string name="name">Name</string>
+    <string name="message_main_page">Happy Learning at Dicoding.</string>
+    <string name="logout">Log Out</string>
+
+    <string name="greeting">Hi %1$s,</string>
+    <string name="storytitle">Your Daily Story</string>
+    <string name="camera">Camera</string>
+    <string name="upload">Upload Photo</string>
+    <string name="gallery">Gallery</string>
+    <string name="description_here">Description Here</string>
+
+    <string name="yes">Yes, Correct</string>
+    <string name="empty_image_warning">Please fill in the photo first</string>
+    <string name="password_strict">Use a minimum of 8 letters</string>
+    <string name="incorrect_format">Incorrect format</string>
+    <string name="error">Failed!</string>
+    <string name="success">Success!</string>
+    <string name="signup_success">Your account with the name %s is already available. Let learn together!</string>
+    <string name="detail_story_image">Detail Story Image</string>
+    <string name="are_you_sure">Are you sure?</string>
+</resources>
